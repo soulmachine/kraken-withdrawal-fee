@@ -24,4 +24,8 @@ function getWithdrawalFee(symbol) {
   return data[symbol];
 }
 
-module.exports = { getWithdrawalFee };
+function getAllWithdrawalFees() {
+  return data;
+}
+
+module.exports = { getWithdrawalFee, getAllWithdrawalFees };
