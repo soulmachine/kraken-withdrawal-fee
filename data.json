@@ -1,0 +1,135 @@
+{
+  "ALGO": {
+    "fee": 0.01,
+    "min": 1
+  },
+  "REP": {
+    "platform": "ERC20",
+    "fee": 0.05,
+    "min": 0.01
+  },
+  "BAT": {
+    "platform": "ERC20",
+    "fee": 4,
+    "min": 10
+  },
+  "BTC": {
+    "fee": 4,
+    "min": 10
+  },
+  "BCH": {
+    "fee": 0.0001,
+    "min": 0.001
+  },
+  "ADA": {
+    "fee": 0.6,
+    "min": 1
+  },
+  "LINK": {
+    "platform": "ERC20",
+    "fee": 0.6,
+    "min": 1.4
+  },
+  "ATOM": {
+    "fee": 0.1,
+    "min": 1
+  },
+  "DASH": {
+    "fee": 0.005,
+    "min": 0.01
+  },
+  "DAI": {
+    "platform": "ERC20",
+    "fee": 0.5,
+    "min": 1
+  },
+  "DOGE": {
+    "fee": 2,
+    "min": 50
+  },
+  "EOS": {
+    "fee": 0.05,
+    "min": 0.5
+  },
+  "ETH": {
+    "fee": 0.005,
+    "min": 0.01
+  },
+  "ETC": {
+    "fee": 0.005,
+    "min": 0.01
+  },
+  "GNO": {
+    "platform": "ERC20",
+    "fee": 0.005,
+    "min": 0.01
+  },
+  "ICX": {
+    "fee": 0.02,
+    "min": 0.03
+  },
+  "LSK": {
+    "fee": 0.3,
+    "min": 1
+  },
+  "LTC": {
+    "fee": 0.001,
+    "min": 0.01
+  },
+  "XMR": {
+    "fee": 0.001,
+    "min": 0.01
+  },
+  "NANO": {
+    "fee": 0.05,
+    "min": 0.1
+  },
+  "OMG": {
+    "platform": "ERC20",
+    "fee": 0.7,
+    "min": 1
+  },
+  "QTUM": {
+    "fee": 0.01,
+    "min": 0.01
+  },
+  "XRP": {
+    "fee": 0.02,
+    "min": 25
+  },
+  "SC": {
+    "fee": 1,
+    "min": 2
+  },
+  "XLM": {
+    "fee": 0.00002,
+    "min": 25
+  },
+  "USDT": {
+    "platform": "OMNI",
+    "fee": 5,
+    "min": 10
+  },
+  "XTZ": {
+    "fee": 0.2,
+    "min": 0.1
+  },
+  "USDC": {
+    "platform": "ERC20",
+    "fee": 0.5,
+    "min": 1
+  },
+  "MLN": {
+    "platform": "ERC20",
+    "fee": 0.003,
+    "min": 0.1
+  },
+  "WAVES": {
+    "fee": 0.02,
+    "min": 0.1
+  },
+  "ZEC": {
+    "fee": 0.0001,
+    "min": 0.0005
+  }
+}
