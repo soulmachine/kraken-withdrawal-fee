@@ -1,6 +1,6 @@
 {
   "name": "kraken-withdrawal-fee",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "All EOS tokens information.",
   "main": "index.js",
   "types": "index.d.ts",

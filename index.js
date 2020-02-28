@@ -24,6 +24,11 @@ function getWithdrawalFee(symbol) {
   return data[symbol];
 }
 
+/**
+ * Get all withdrawal fees.
+ *
+ * @returns All symbols' withdrawal fees
+ */
 function getAllWithdrawalFees() {
   return data;
 }

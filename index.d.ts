@@ -12,3 +12,12 @@ export interface WithdrawalFee {
  * @returns The WithdrawalFee
  */
 export declare function getWithdrawalFee(symbol: string): WithdrawalFee;
+
+/**
+ * Get all withdrawal fees.
+ *
+ * @returns All symbols' withdrawal fees
+ */
+export declare function getAllWithdrawalFees(): {
+  [key: string]: WithdrawalFee;
+};
